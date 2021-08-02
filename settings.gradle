@@ -1,0 +1,2 @@
+rootProject.name = "Contact_EOS_2021"
+include ':app'
